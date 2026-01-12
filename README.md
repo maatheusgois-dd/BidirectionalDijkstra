@@ -6,6 +6,10 @@ A SwiftUI macOS app that visualizes and compares Dijkstra's algorithm with Bidir
 ![Platform](https://img.shields.io/badge/Platform-macOS-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+
+https://github.com/user-attachments/assets/695bb869-9669-42a1-bbbe-4c379d56c8a7
+
+
 ## Features
 
 - **Visual comparison** of standard Dijkstra vs Bidirectional Dijkstra
